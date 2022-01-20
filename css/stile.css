@@ -6,7 +6,8 @@
     margin-top: 1rem;
 }
 .contenitore {
-    background-color: gray;
-    width: 10rem;
-    height: 5rem;
+    position: relative;
+    background-color: rgba(100, 100, 0, 0.2);
+    width: 14.2rem;
+    height: 20.4rem;
 }
