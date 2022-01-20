@@ -3,14 +3,15 @@
     position: relative;
     margin-left: 11%;
     margin-top: 1.7%;
-    width: 78%;
-    height: 30rem;
 }
 
+
 .contenitore {
+    display: inline-block;
     position: relative;
     width: 300px;
     height: 480px;
+    margin-left: 0.5rem;
 }
 
 .insersione {
