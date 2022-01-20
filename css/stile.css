@@ -3,21 +3,18 @@
     position: relative;
     margin-left: 11%;
     margin-top: 1.7%;
-    background-color: rgba(100, 0, 0, 0.5);
     width: 78%;
     height: 30rem;
 }
 
 .contenitore {
     position: relative;
-    background-color: rgba(100, 100, 0, 0.5);
     width: 300px;
     height: 480px;
 }
 
 .insersione {
     position: relative;
-    background-color: rgba(100, 100, 100, 0.5);
     width: 300px;
     height: 435px;
 }
@@ -49,4 +46,63 @@ img {
 .img2:hover {
     visibility: visible;
     opacity: 1;
+}
+
+.testo {
+    position: relative;
+    top: 435px;
+}
+
+.marca {
+    font-size: 0.6rem;
+}
+
+.testo h6 {
+    margin: 0;
+}
+
+.prezzo {
+    font-size: 0.6rem;
+    color: red;
+}
+
+.originale {
+    color: black;
+    text-decoration-line: line-through;
+}
+
+.sconti {
+    position: absolute;
+    z-index: +3;
+    color: white;
+    top: 410px;
+    font-size: 0.7rem;
+
+}
+
+.red {
+    display: inline-block;
+    padding: 2px;
+    background-color: #eb0037;
+}
+
+.green {
+    background-color: #00875a;
+}
+
+.cuore {
+    position: absolute;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    z-index: +3;
+    vertical-align: middle;
+    left: 270px;
+    top: 10px;
+}
+
+.cuore span{
+    display: inline-block;
+    padding-top: 6px;
 }
