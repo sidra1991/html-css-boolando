@@ -1,0 +1,12 @@
+
+
+.super-contenitore {
+    background-color: rgba(100, 0, 0, 0.2);
+    margin-left: 6rem;
+    margin-top: 1rem;
+}
+.contenitore {
+    background-color: gray;
+    width: 10rem;
+    height: 5rem;
+}
