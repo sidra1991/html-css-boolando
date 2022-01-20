@@ -39,10 +39,11 @@ img {
     z-index: +1 ;
 }
 
-.img2 {
+.img2{
     position: absolute;
     z-index: +2;
     opacity: 0;
+    padding-bottom: 55px;
 }
 
 .img2:hover {
